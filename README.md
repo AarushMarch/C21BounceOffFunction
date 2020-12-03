@@ -1,2 +1,2 @@
-# C21BounceOffFunction
-Bounce of other sprites
+# p5.play-boilerplate
+Boiler plate for p5.play
